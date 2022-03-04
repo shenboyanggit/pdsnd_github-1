@@ -14,4 +14,4 @@ bikeshare.py
 .gitignore
 
 ### Credits
-N/A
+www.Udacity.com
